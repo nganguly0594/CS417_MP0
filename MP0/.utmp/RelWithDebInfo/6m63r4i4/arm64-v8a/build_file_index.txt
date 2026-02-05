@@ -1,0 +1,2 @@
+/Users/neilganguly/Documents/UIUC Repos/CS417/MP0/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/neilganguly/Documents/UIUC Repos/CS417/MP0/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
